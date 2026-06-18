@@ -1,6 +1,6 @@
-CS50 Final Project - Britebot
-VIDEO DEMO https://youtu.be/5nxfmhTUWNY
-DESCRIPTION
+#### CS50 Final Project - Britebot
+## VIDEO DEMO https://youtu.be/5nxfmhTUWNY
+## DESCRIPTION
 I wanted to make a game as final project and the idea came from cs50 final project webpage where one of the ideas was 'a game created using lua with LOVE'. The implementation was fairly simple compared to writing the code, as certain parts require long time to write but overall relatively doable.
 
 This project is build using mainly lua files to write code and LOVE2D where the game is run on. Additionally sounds and graphics also involved in this project which will be explain later. This is basically a puzzle type game where users control movements of a robot using WASD keys and rotating map using left and right arrows to collect wrenches each level as increasing difficulty when progressing levels. The game consist of 6 stages with 6 bonus stages that can be unlocked once all stages are completed. This game consist of many features such as rotating camera angle, shader effects and lighting, bonus levels. Furthermore it consist of teleporters, ice blocks and trampoline which helps the certain levels to be more fun to solve.
