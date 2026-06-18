@@ -1,0 +1,12 @@
+push mountain`9`3`0`brItebot can push*metal boxes!*try to stack them!`1`0~
+heated heights`8`3`2`the blue springs*bounce brItebot*3 blocks forward!`1`0~
+ice skating snowscape`8`3`4`brItebot cannot*turn when*sliding on ice!`1`0~
+teleport trials`8`3`8`stand on a colored*teleporter to*teleport!`2`0~
+turn turn cliffs`9`3`10`jump on an orange*button to rotate*the area ahead!`3`0~
+great switcher`8`1`15`jump on the*blue pad to switch*the areas!`1`0~
+moonlight mountain`9`3`16`bonus level 1*`4`2~
+dark dunes`9`3`16`bonus level 2`4`2~
+frozen midnight`8`3`16`bonus level 3`4`2~
+shadow portals`11`3`16`bonus level 4`4`2~
+starry spin`9`3`16`bonus level 5`4`2~
+night swap`10`1`31`bonus level 6`4`2
