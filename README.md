@@ -10,6 +10,6 @@ The project consists of 10 lua files and 3 additional folders. The intro.lua fil
 #### How to run the file
 1.Download LÖVE2D latest version
 
-2.Drag the folder onto the game engine
+2.Drag the folder from your computer onto the app and let it load.
 
 
